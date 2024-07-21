@@ -8,8 +8,7 @@
 
 
 # CICS WEB APP
-> Description
-The CICS web app is designed for easy browsing of announcements and viewing current CICS officers. 
+> The CICS web app is designed for easy browsing of announcements and viewing current CICS officers. 
 It allows users to quickly find and navigate frequently asked questions within the About Us section. 
 The app provides a user-friendly interface for students and faculty members. It ensures that all important information is accessible and well-organized.
 This helps keep the CICS community informed and connected.
