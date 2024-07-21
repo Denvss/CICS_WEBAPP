@@ -37,11 +37,7 @@ This helps keep the CICS community informed and connected.
    The answers are initially hidden but will be displayed when the user clicks to reveal them.
 
 # Screenshots
-.
 
-
-# Video Presentation
-https://www.youtube.com/watch?v=9Awewjzwof8
 
 
 
